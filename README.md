@@ -74,25 +74,37 @@ C:\xampp\htdocs\E-Commerce
 - Admin: http://localhost/E-Commerce/admin/admin_login.php
 
 
-### 📸 Screenshots
+## 📸 Application Screenshots
 
-### 📸 Screenshots
+---
 
-<p align="center"> 
-  <img src="screenshots/Screenshot (23).png" alt="Intro Animation" width="300"/> 
-  <img src="screenshots/Screenshot (24).png" alt="Home Page" width="300"/> 
-  <img src="screenshots/Screenshot (25).png" alt="Register Page" width="300"/> 
-</p>
+### 🌀 Intro Animation
+<img src="screenshots/Screenshot (23).png" alt="Intro Animation" width="600"/>
 
-<p align="center"> 
-  <img src="screenshots/Screenshot (26).png" alt="Cart Page" width="300"/> 
-  <img src="screenshots/Screenshot (27).png" alt="Admin Dashboard" width="300"/> 
-  <img src="screenshots/Screenshot (28).png" alt="Orders Page" width="300"/> 
-</p>
+---
 
-<p align="center">
-  <em>Intro Animation • Home Page • Register Page • Cart • Admin Dashboard • Orders</em>
-</p>
+### 🏠 Home Page
+<img src="screenshots/Screenshot (24).png" alt="Home Page" width="600"/>
+
+---
+
+### 📝 Register Page
+<img src="screenshots/Screenshot (25).png" alt="Register Page" width="600"/>
+
+---
+
+### 🛒 Cart Page
+<img src="screenshots/Screenshot (26).png" alt="Cart Page" width="600"/>
+
+---
+
+### 🛠️ Admin Dashboard
+<img src="screenshots/Screenshot (27).png" alt="Admin Dashboard" width="600"/>
+
+---
+
+### 📦 Orders Page
+<img src="screenshots/Screenshot (28).png" alt="Orders Page" width="600"/>
 
 
 ---
