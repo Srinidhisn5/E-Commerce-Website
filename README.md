@@ -76,7 +76,7 @@ C:\xampp\htdocs\E-Commerce
 
 ### 📸 Screenshots
 
-<p align="center"> <img src="screenshots/Screenshot (23).png" alt="Intro Animation" width="300"/> <img src="screenshots/Screenshot (24).png" alt="Home Page" width="300"/> <img src="screenshots/Screenshot (25).png" alt="Register Page" width="300"/> </p> <p align="center"> <em>Intro Animation &nbsp;&nbsp;&nbsp; Home Page &nbsp;&nbsp;&nbsp; Register Page</em> </p> <p align="center"> <img src="screenshots/Screenshot (26).png" alt="Cart Page" width="300"/> <img src="screenshots/Screenshot (27).png" alt="Admin Dashboard Page" width="300"/> <img src="screenshots/Screenshot (28).png" alt="Orders Page" width="300"/> </p> <p align="center"> <em>Cart Page &nbsp;&nbsp;&nbsp; Admin Dashboard &nbsp;&nbsp;&nbsp; Orders Page</em> </p>
+<p align="center"> <img src="screenshots/Screenshot (24).png" alt="Home Page" width="300"/> <img src="screenshots/Screenshot (25).png" alt="Register Page" width="300"/> </p> <p align="center"> <em>Intro Animation &nbsp;&nbsp;&nbsp; Home Page &nbsp;&nbsp;&nbsp; Register Page</em> </p> <p align="center"> <img src="screenshots/Screenshot (26).png" alt="Cart Page" width="300"/> <img src="screenshots/Screenshot (27).png" alt="Admin Dashboard Page" width="300"/> <img src="screenshots/Screenshot (28).png" alt="Orders Page" width="300"/> </p> <p align="center"> <em>Cart Page &nbsp;&nbsp;&nbsp; Admin Dashboard &nbsp;&nbsp;&nbsp; Orders Page</em> </p>
 <p align="center"> 
   <em>Intro Animation &nbsp;&nbsp;&nbsp; Upload Page &nbsp;&nbsp;&nbsp; Path Page</em> 
 </p>  
