@@ -112,9 +112,9 @@ C:\xampp\htdocs\E-Commerce
 ### 🔐 Sample Admin Access
 - ⚠️ Ensure these credentials exist in your database or insert them manually using phpMyAdmin.
 
-- Username: admin123
+- Username: Srinidhi
 
-- Password: admin123
+- Password: Srinidhi
 
 ### 🧩 Tech Stack
 
