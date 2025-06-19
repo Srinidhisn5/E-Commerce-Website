@@ -76,20 +76,19 @@ C:\xampp\htdocs\E-Commerce
 
 ## 📸 Application Screenshots
 
----
 
 ### 🌀 Intro Animation
-<img src="screenshots/Screenshot (23).png" alt="Intro Animation" width="600"/>
+<img src="screenshots/Screenshot (24).png" alt="Intro Animation" width="600"/>
 
 ---
 
 ### 🏠 Home Page
-<img src="screenshots/Screenshot (24).png" alt="Home Page" width="600"/>
+<img src="screenshots/Screenshot (25).png" alt="Home Page" width="600"/>
 
 ---
 
 ### 📝 Register Page
-<img src="screenshots/Screenshot (25).png" alt="Register Page" width="600"/>
+<img src="screenshots/Screenshot (27).png" alt="Register Page" width="600"/>
 
 ---
 
@@ -99,15 +98,11 @@ C:\xampp\htdocs\E-Commerce
 ---
 
 ### 🛠️ Admin Dashboard
-<img src="screenshots/Screenshot (27).png" alt="Admin Dashboard" width="600"/>
+<img src="screenshots/Screenshot (28).png" alt="Admin Dashboard" width="600"/>
 
 ---
 
-### 📦 Orders Page
-<img src="screenshots/Screenshot (28).png" alt="Orders Page" width="600"/>
 
-
----
 
 ### 🔐 Sample Admin Access
 - ⚠️ Ensure these credentials exist in your database or insert them manually using phpMyAdmin.
